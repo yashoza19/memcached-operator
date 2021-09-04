@@ -1,0 +1,8 @@
+apiVersion: cache.opentry.me/v1alpha1
+kind: Memcached
+metadata:
+  name: memcached-sample
+spec:
+  # Add fields here
+  foo: bar
+  size: 1
